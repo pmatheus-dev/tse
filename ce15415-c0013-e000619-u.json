@@ -5,10 +5,10 @@
 { "n" : "102", "sg" : "PSOL/REDE", "nm" : "Federação PSOL REDE", "com" : "PSOL/REDE", "npar" : [ "18", "50" ] } ], "agr" : [ 
 { "n" : "60001749128", "nm" : "Federação BRASIL DA ESPERANÇA - FE BRASIL", "tp" : "f", "com" : "PC do B / PT / PV", "tvtn" : "0", "tvan" : "0", "tvtl" : "0", "tval" : "0", "vag" : "0", "par" : [ 
 { "n" : "65", "sg" : "PC do B", "nm" : "Partido Comunista do Brasil", "nfed" : "101", "tvtn" : "0", "tvtl" : "0", "tval" : "0", "tvan" : "0", "cand" : [ 
-{ "n" : "65400", "sqcand" : "60002276387", "nm" : "EULINA CANAFISTULA DA PENHA ALVES", "nmu" : "EULINA", "dt" : "26/09/1967", "dvt" : "Válido", "seq" : "2050", "e" : "n", "st" : "", "vap" : "0", "pvap" : "0,00", "pvapn" : "0" }, 
-{ "n" : "65777", "sqcand" : "60002276379", "nm" : "JOSE MIGUEL BARBOSA FILHO", "nmu" : "BARBOSA", "dt" : "04/12/1971", "dvt" : "Válido", "seq" : "3186", "e" : "n", "st" : "", "vap" : "0", "pvap" : "0,00", "pvapn" : "0" }, 
-{ "n" : "65789", "sqcand" : "60002276388", "nm" : "ANTONIO NACELIO DOS SANTOS", "nmu" : "NACELIO SANTOS", "dt" : "09/06/1982", "dvt" : "Válido", "seq" : "7180", "e" : "n", "st" : "", "vap" : "0", "pvap" : "0,00", "pvapn" : "0" }, 
-{ "n" : "65123", "sqcand" : "60002276380", "nm" : "JOSE TARCISIO SOUSA NETO", "nmu" : "DR TARCISIO", "dt" : "08/03/1988", "dvt" : "Válido", "seq" : "9294", "e" : "n", "st" : "", "vap" : "0", "pvap" : "0,00", "pvapn" : "0" }, 
+{ "n" : "65400", "sqcand" : "60002276387", "nm" : "EULINA CANAFISTULA DA PENHA ALVES", "nmu" : "EULINA", "dt" : "26/09/1967", "dvt" : "Válido", "seq" : "2050", "e" : "n", "st" : "Suplente", "vap" : "15", "pvap" : "0,00", "pvapn" : "0" }, 
+{ "n" : "65777", "sqcand" : "60002276379", "nm" : "JOSE MIGUEL BARBOSA FILHO", "nmu" : "BARBOSA", "dt" : "04/12/1971", "dvt" : "Válido", "seq" : "3186", "e" : "n", "st" : "Não eleito", "vap" : "7", "pvap" : "0,00", "pvapn" : "0" }, 
+{ "n" : "65789", "sqcand" : "60002276388", "nm" : "ANTONIO NACELIO DOS SANTOS", "nmu" : "NACELIO SANTOS", "dt" : "09/06/1982", "dvt" : "Válido", "seq" : "7180", "e" : "s", "st" : "Eleito por QP", "vap" : "22", "pvap" : "0,00", "pvapn" : "0" }, 
+{ "n" : "65123", "sqcand" : "60002276380", "nm" : "JOSE TARCISIO SOUSA NETO", "nmu" : "DR TARCISIO", "dt" : "08/03/1988", "dvt" : "Válido", "seq" : "9294", "e" : "s", "st" : "Eleito por média", "vap" : "17", "pvap" : "0,00", "pvapn" : "0" }, 
 { "n" : "65321", "sqcand" : "60002276384", "nm" : "ANA JULIETE CARNEIRO ARAÚJO", "nmu" : "JULIETE", "dt" : "09/01/1990", "dvt" : "Válido", "seq" : "9857", "e" : "n", "st" : "", "vap" : "0", "pvap" : "0,00", "pvapn" : "0" }, 
 { "n" : "65700", "sqcand" : "60002276383", "nm" : "ANTONIO ARTUR SILVA ARCANJO", "nmu" : "ARTUR SILVA", "dt" : "27/07/1990", "dvt" : "Válido", "seq" : "9993", "e" : "n", "st" : "", "vap" : "0", "pvap" : "0,00", "pvapn" : "0" } ] }, 
 { "n" : "43", "sg" : "PV", "nm" : "Partido Verde", "nfed" : "101", "tvtn" : "0", "tvtl" : "0", "tval" : "0", "tvan" : "0", "cand" : [  ] }, 
